@@ -4,4 +4,4 @@ Samuel arango
 26/enero: Se me olvido como borrar archivos en git bash
 27/enero: En clase el profesor nos recordo los comandos basicos y nos envio un archivo con los comandos mas utiles y  comunes 
 
-0325937503275093259325793
+0325937503275093
