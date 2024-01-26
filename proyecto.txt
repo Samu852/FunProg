@@ -1,0 +1,4 @@
+Proyecto de programacion upb para primer semestre
+Samuel arango 
+
+26/enero: Se me olvido como borrar archivos en git bash
